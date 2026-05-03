@@ -1,21 +1,21 @@
-# ApexOS
-**Designed by Puffy**
+# ApexOS Launcher
 
-ApexOS is a high-performance, minimalist launcher built from scratch using Jetpack Compose. It is specifically engineered for Android Go devices, focusing on fluid animations and a premium aesthetic without compromising system resources.
+by Puffy
+
+ApexOS Launcher is a high-performance, minimalist Android launcher built from scratch using Jetpack Compose. It is designed for Android Go devices, delivering smooth animations and a refined UI without compromising system resources.
 
 ### 💎 Philosophy
-* **Performance First:** Optimized for devices with 2GB-3GB RAM.
-* **Fluid Motion:** Advanced UI physics for a "weightless" feel.
-* **Minimalism:** A clean, distraction-free environment for focused usage.
+* **Performance First:** Built for 2–3GB RAM devices without compromise.
+* **Fluid Motion:** UI driven by smooth, responsive animations.
+* **Minimalism:** Clean interface focused on content, not clutter.
 
 ### 🛠 Tech Stack
-* **Language:** Kotlin
-* **UI Framework:** Jetpack Compose
-* **Typography:** JetBrains Mono
-* **Styling:** Material You / Monet Engine support
+* Kotlin
+* Jetpack Compose
+* Material You (Monet support)
 
 ### 🚀 Status
-The project is currently in **Active Alpha**. New versions are released as the core engine reaches stability milestones.
+Active Alpha. Core engine under development and optimization.
 
 ---
 **Developer:** [ThatOnePuffy](https://github.com/ThatOnePuffy)  
